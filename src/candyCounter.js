@@ -12,3 +12,7 @@ CandyQuantity.prototype.sum = function (Runt1, Runt2) {
 CandyQuantity.prototype.notSame = function (GummyBearQuantity, RuntQuantity) {
     return GummyBearQuantity !== RuntQuantity;
 };
+
+// module.exports = {
+//     CandyQuantity: CandyQuantity
+// };

@@ -1,0 +1,26 @@
+{
+  "name": "OC_JasmineTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrayoKane/OC_JasmineTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrayoKane/OC_JasmineTest/issues"
+  },
+  "homepage": "https://github.com/BrayoKane/OC_JasmineTest#readme",
+  "dependencies": {
+    "angular-mocks": "^1.7.8"
+  }
+}
